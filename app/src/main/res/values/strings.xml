@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Global DCX</string>
+    <string name="action_settings">Settings</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="ripple">Ripple</string>
+    <string name="monero">Monero</string>
+    <string name="daily">Daily</string>
+    <string name="weekly">Weekly</string>
+    <string name="monthly">Monthly</string>
+</resources>
